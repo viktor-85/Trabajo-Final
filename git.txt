@@ -1,0 +1,5 @@
+git --version  = Version que estamos Usando
+git config --global user.name "nombre" = Nomber Usuario
+git config --global user.mail "Correo" =Correo Usuario"
+git init: Iniciar repositorio
+
